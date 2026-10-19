@@ -1,0 +1,6 @@
+{
+  "name": "Metro Weather",
+  "description": "Authentic Windows Phone Metro UI styled weather and forecast app with live tiles, panorama pivot views, hourly breakdowns, and atmospheric telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Metro Weather</string>
+    <string name="panorama_weather">weather</string>
+    <string name="panorama_forecast">forecast</string>
+    <string name="panorama_details">details</string>
+    <string name="panorama_tiles">live tiles</string>
+    <string name="panorama_cities">places</string>
+    <string name="search_hint">search city or location...</string>
+    <string name="pinned_tiles">pinned tiles</string>
+    <string name="app_bar_refresh">refresh</string>
+    <string name="app_bar_search">search</string>
+    <string name="app_bar_theme">accent</string>
+    <string name="app_bar_settings">settings</string>
+</resources>
